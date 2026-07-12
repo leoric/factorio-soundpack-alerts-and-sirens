@@ -1,9 +1,9 @@
 {
   "name": "Soundpack-alerts-and-sirens-updated-v1-1",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "title": "Soundpack: Alerts and Sirens Updated",
   "author": "Arcitos",
   "description": "Enjoy the shuddering sounds of the harbinger of destruction and doom: This mod adds more alert and siren sounds for programmable speakers. Bonus sound: Railroad crossing bells!",
-  "factorio_version": "2.0",
+  "factorio_version": "2.1",
   "dependencies": []
 }
